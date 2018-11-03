@@ -1,2 +1,2 @@
 # Master Branch
-A web-application for publishing blogs including developers portfolio.
+## Don't push directly to the master branch.
