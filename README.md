@@ -1,2 +1,2 @@
-# blog-portfolio-site-django
-A web-application for publishing blogs including developers portfolio.
+# Front-End Branch
+## This branch is for templates (html, css, bootstrap, static) and add interactions (JavaScript) to the project.
