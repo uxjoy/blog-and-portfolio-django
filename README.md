@@ -1,2 +1,2 @@
-# blog-portfolio-site-django
+# Master Branch
 A web-application for publishing blogs including developers portfolio.
